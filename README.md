@@ -8,7 +8,7 @@ You can see it <a href="#">here</a>
 
 Website page based on this design:
 
-[ufo](https://www.pinterest.com/pin/464293042832100522/)
+[ufo](https://dribbble.com/shots/2815937-404-page)
 
 ### Project feature/goal
 
